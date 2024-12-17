@@ -1,0 +1,15 @@
+.container {
+    color: #3d3d3d;
+}
+
+.text {
+  text-align: justify;   
+  margin-top: 1cm;
+  margin-left: 1cm;
+}
+
+body {
+  background: #28305a;
+  height: 100vh;
+  margin: 0 20px;
+}
