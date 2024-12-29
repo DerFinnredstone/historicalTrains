@@ -1,5 +1,13 @@
+:root {
+  --primary-color: #42AC8A;
+  --secondary-color: #297A7A;
+  --text-color: #575A56;
+  --white: #fff;
+  --background: #28305a;
+}
+
 .container {
-    color: #3d3d3d;
+  color: var(--text-color);
 }
 
 .text {
@@ -9,7 +17,8 @@
 }
 
 body {
-  background: #28305a;
+  background: var(--background);
   height: 100vh;
   margin: 0 20px;
 }
+

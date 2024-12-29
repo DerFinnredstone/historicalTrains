@@ -1,11 +1,27 @@
-# Astro + Vue Example
+# Historical Trains
 
-```sh
-npm create astro@latest -- --template framework-vue
-```
+# **Moving to Astro**
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/framework-vue)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/framework-vue)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/framework-vue/devcontainer.json)
+**Some functions don't work, because the project will be recreated in Astro.**
 
-This example showcases Astro working with [Vue](https://v3.vuejs.org/).
+## Description
+
+The project “Historical Trains of Ruegen” is focussed on the history part of the railway.
+In the project, a website will be created, which helps travelers travelling to Ruegen with trains.
+At the history section, you will see pictures of steam and old diesel trains.
+On the bottom of the picture you will see which train it is, what type of train it is and where you can find it.
+You will find other helpful information about trains on Ruegen.
+
+## TODO and FIXME
+
+**Index.astro**
+
+- *FIXME:* 
+    - Menu
+- *TODO:* 
+    - Colors change for the menu
+
+
+## Website
+
+You can reach the website at <X>
